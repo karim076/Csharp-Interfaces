@@ -1,0 +1,10 @@
+C:\Git\Interfaces\Interfaces\obj\Debug\net6.0\Interfaces.csproj.AssemblyReference.cache
+C:\Git\Interfaces\Interfaces\obj\Debug\net6.0\Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\Interfaces\Interfaces\obj\Debug\net6.0\Interfaces.AssemblyInfoInputs.cache
+C:\Git\Interfaces\Interfaces\obj\Debug\net6.0\Interfaces.AssemblyInfo.cs
+C:\Git\Interfaces\Interfaces\obj\Debug\net6.0\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 2\Blok_C\Native\Interfaces\obj\Debug\net6.0\Interfaces.csproj.AssemblyReference.cache
+C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 2\Blok_C\Native\Interfaces\obj\Debug\net6.0\Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 2\Blok_C\Native\Interfaces\obj\Debug\net6.0\Interfaces.AssemblyInfoInputs.cache
+C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 2\Blok_C\Native\Interfaces\obj\Debug\net6.0\Interfaces.AssemblyInfo.cs
+C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 2\Blok_C\Native\Interfaces\obj\Debug\net6.0\Interfaces.csproj.CoreCompileInputs.cache
