@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rmY65C2lVKwnKLjqdt76s80ELnB7Sk70Bfopu7Rbo9v/jHc9QH6fQMmX9PWz2eXRs+lrkd3YpZ+X7ncq6vTLyA==",
+  "dgSpecHash": "O9NFSyx7tkOJjCxGTKVaiBrrHcE1I8JqTOAufcT0+DczjrpM28HLD/sbIUOhwAb5kFwoDlyoW9ZpzM+T/spWxA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Karim Alkichouhi\\Documents\\School\\Leerjaar 2\\Blok_C\\Native\\Interfaces\\Interfaces.csproj",
+  "projectFilePath": "C:\\Users\\Karim Alkichouhi\\Documents\\School\\Leerjaar 2\\Blok_C\\Native\\Interfaces\\Csharp-Interfaces\\Interfaces.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
